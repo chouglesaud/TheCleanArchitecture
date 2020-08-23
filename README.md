@@ -1,4 +1,4 @@
 # TheCleanArchitecture
-Clean Architecture using TypeScript
+Clean Architecture with TypeScript
 
 ![](./thecleanarchitecture.jpeg)
