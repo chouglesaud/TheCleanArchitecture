@@ -1,0 +1,27 @@
+{
+  "name": "thecleanarchitecture",
+  "version": "1.0.0",
+  "description": "the clean architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chouglesaud/TheCleanArchitecture.git"
+  },
+  "keywords": [
+    "typescript",
+    "thecleanarchitecture"
+  ],
+  "author": "saud chougle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chouglesaud/TheCleanArchitecture/issues"
+  },
+  "homepage": "https://github.com/chouglesaud/TheCleanArchitecture#readme",
+  "dependencies": {
+    "shallow-equal-object": "^1.1.1",
+    "uuid": "^8.3.1"
+  }
+}
