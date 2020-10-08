@@ -1,6 +1,6 @@
 import { Result } from './Result';
 
-interface DomainError {
+export interface DomainError {
   message: string;
   error?: any;
 }

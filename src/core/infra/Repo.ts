@@ -1,4 +1,4 @@
 export interface Repo<T> {
-  exists(t: T): Promise<boolean>;
-  save(t: T): Promise<T>;
+  exists(t: T | string): Promise<boolean>;
+  save(t: T): Promise<void>;
 }
